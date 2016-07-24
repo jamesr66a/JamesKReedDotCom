@@ -20,16 +20,18 @@ body {
 }
 
 .subtitle {
-	font-size: 36px;
+	font-size: 30px;
 }
 
 h1 {
 	margin: 0;
 	margin-bottom: 20px;
+	text-align: center;
 }
 
 h2 {
-	margin: 2px;
+	margin: 0px;
+	text-align: center;
 }
 
 .mdl-layout__drawer-button {
