@@ -7,8 +7,6 @@ body {
 
 .typeface {
 	font-family: 'Roboto', cursive;
-	color: white;
-	color: white
 }
 
 .dropshadow {
@@ -20,18 +18,20 @@ body {
 }
 
 .subtitle {
-	font-size: 30px;
+	font-size: 24px;
 }
 
 h1 {
 	margin: 0;
 	margin-bottom: 20px;
 	text-align: center;
+	color: white;
 }
 
 h2 {
 	margin: 0px;
 	text-align: center;
+	color: white;
 }
 
 .mdl-layout__drawer-button {
@@ -50,6 +50,20 @@ h2 {
 	bottom: 0;
 	z-index: 1;
 	width: 100%;
-	opacity: 0.5;
+	opacity: 0.85;
 	background-color: black; 
+}
+
+.cd-date {
+	color: #000000;
+	text-shadow: 1px 1px 3px white;
+	font-family: 'Roboto', cursive;
+}
+
+.image-me {
+	width: 50%;
+	border-radius: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
 }
