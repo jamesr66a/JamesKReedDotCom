@@ -57,8 +57,8 @@ h2 {
 }
 
 .cd-date {
-	color: #000000;
-	text-shadow: 1px 1px 3px white;
+	color: black;
+	text-shadow: 1px 1px 0.5px white;
 	font-family: 'Roboto', cursive;
 }
 
@@ -82,4 +82,8 @@ h2 {
 .charm {
 	display: inline;
 	margin: auto;
+}
+
+.timelinedesc {
+	margin: 10px;
 }
