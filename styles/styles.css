@@ -60,6 +60,7 @@ h2 {
 	color: black;
 	text-shadow: 1px 1px 0.5px white;
 	font-family: 'Roboto', cursive;
+	margin-left: 10px;
 }
 
 .image-me {
@@ -88,4 +89,6 @@ h2 {
 
 .timelinedesc {
 	margin: 10px;
+	letter-spacing: 0.25px;
+	line-height: 14px;
 }
